@@ -4,9 +4,11 @@ Laravel/Lumen based console command to run a slot machine and view winnings accr
 ## Set Up
 
  1. Install packages
+ 
 composer install
 
 2. Start Application
+
 php -S localhost:8000 -t public
 
 
